@@ -2,7 +2,7 @@ Php Azure quick uploads
 =======================
 
 - type in terminal: composer install
-- in index.php set your params: $accountNameand $accountKey
+- in index.php set your params: $accountName and $accountKey
 
 
 
